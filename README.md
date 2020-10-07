@@ -10,4 +10,5 @@
 
 ## 🌐 App URL
 
-### **LINE ID @787kywzt** 
+### **<p align="center">
+  <a href="LINEロゴ"><img src="https://github.com/Daisuke-23/line-bot/blob/master/line_icon_200_v3.jpg" height="100px；" /></a>** 
