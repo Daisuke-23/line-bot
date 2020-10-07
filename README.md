@@ -5,7 +5,7 @@
 <p align="center">
   <a href="vue公式サイトURL"><img src="https://〜.png" width="80px;" /></a>
   <br>
-  <a href="PWA公式サイトURL"><img src="https://user-images.githubusercontent.com/69741917/95297955-41721e00-08b6-11eb-9d32-47c720cb0555.jpg)" height="45px;" /></a>
+  <a href="LINE公式サイトURL"><img src="https://user-images.githubusercontent.com/69741917/95297955-41721e00-08b6-11eb-9d32-47c720cb0555.jpg)" height="45px;" /></a>
   <a href="Firebase公式サイトURL"><img src="https://〜.png" height="45px;" /></a>
   <a href="firealpaca公式サイトURL"><img src="https://〜.png" height="40px;" /></a>
   <a href="sweetalert公式サイトURL"><img src="https://〜.png" height="45px;" /></a>
