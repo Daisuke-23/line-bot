@@ -10,4 +10,4 @@
 
 ## 🌐 App URL
 
-### **https://cupramen-timer.firebaseapp.com** 
+### **LINE ID @787kywzt** 
