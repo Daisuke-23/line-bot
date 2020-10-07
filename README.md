@@ -3,7 +3,7 @@
 <h2 align="center">LINE BOT</h2>
 
 <p align="center">
-  <a href="vue公式サイトURL"><img src="https://〜.png" width="80px;" /></a>
+  <a href="LINE公式サイトURL"><img src="https://github.com/Daisuke-23/line-bot/blob/master/line_icon_200_v3.jpg" height="100px；" /></a>
   <br>
   <a href="LINE公式サイトURL"><img src="https://github.com/Daisuke-23/line-bot/blob/master/line_icon_200_v3.jpg" height="100px；" /></a>
   <a href="Firebase公式サイトURL"><img src="https://〜.png" height="45px;" /></a>
